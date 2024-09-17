@@ -1,1 +1,20 @@
-[]
+[
+    {
+        "id": 1726492036,
+        "text": "shshhs",
+        "uploader": "jawa",
+        "likes": 2,
+        "dislikes": 0,
+        "date": "2024-09-16",
+        "comments": [
+            {
+                "user": "Anonymous",
+                "comment": "oi jawa"
+            },
+            {
+                "user": "Anonymous",
+                "comment": "anjaylah jawa"
+            }
+        ]
+    }
+]
