@@ -91,4 +91,4 @@ if ($action === 'read') {
 } else {
     echo json_encode(['error' => 'Invalid action']);
 }
-?>
+>
